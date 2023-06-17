@@ -47,8 +47,6 @@ $ npm i prettier-plugin-tailwindcss
   <a href="https://tailwindcss.com/docs/guides/vite" target="_blank">Setting up Tailwind CSS in a Vite project</a>
 </p>
 
-
-
 ## License
 
 Jest is [MIT licensed](LICENSE).
